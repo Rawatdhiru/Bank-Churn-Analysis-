@@ -1,3 +1,5 @@
+Tech stack I'm Using here is EXCEL POWER BI MYSQL
+
 Attached herewith is the PowerPoint presentation for enhanced clarity and understanding. Furthermore, comprehensive insights are encapsulated within the Q&A documentation sheet housed within the repository. Additionally, a project dashboard has been included for your perusal.
 
 
